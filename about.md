@@ -3,7 +3,6 @@ layout: page
 title: About me
 permalink: /about/
 ---
-![avatar](me_.png)
 
 My name is Oksana Hagen, and this is my professional website and blog, where I share my work and everyting robot and AI related. 
 
@@ -14,3 +13,5 @@ I am working on a principled way to build prior knowledge for optimising reinfor
 Previously I have received a joint Erasmus+ M.Sc. degree with distiction in Vision and Robotics ([ViBOT](https://www.vibot.org/)) from the Universities of Burgundy (France), Girona (Spain), and Heriot-Watt University (Edinburgh, UK) in 2015. My [thesis](https://ieeexplore.ieee.org/document/7500627) was focused on multi-object estimation in space-situational awareness context. During my masters I have been working at [Vicorob lab](https://vicorob.udg.edu/) as an assistant for medical imaging project in partnership with Clinic Hospital of Barcelona. 
 
 In 2013 I have completed my B.Sc. degree in Electrical and Computer Engineering from National Chiao Tung University (Taiwan). During my time in Taiwan I have completed two internships at [Industrical Technology Research Institute](https://www.itri.org.tw/eng/) mostly focused on applications of computer vision.
+
+![avatar](me_.png)
