@@ -3,7 +3,9 @@ layout: page
 title: About me
 permalink: /about/
 ---
-Hi! My name is Oksana Hagen, and this is my professional website and blog, where I share my work and everyting robot and AI related. 
+Hi! 
+
+My name is Oksana Hagen, and this is my professional website and blog, where I share my work and everyting robot and AI related. 
 
 I am currently working as a researcher at [Softbank Robotics Europe](https://www.softbankrobotics.com/emea/en) AI lab and also completing my PhD at [Plymouth University](https://www.plymouth.ac.uk/research/robotics-neural-systems/people) under Marie Skłodowska-Curie European Industrial Doctorate program [APRIL](https://www.fose1.plymouth.ac.uk/socem/crns/april/#Home). 
 
