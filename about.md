@@ -4,6 +4,8 @@ title: About me
 permalink: /about/
 ---
 
+![avatar](me_.png){:style="float: right;margin-right: 7px;margin-top: 7px;"}
+
 My name is Oksana Hagen, and this is my professional website and blog, where I share my work and everyting robot and AI related. 
 
 I am currently working as a researcher at [Softbank Robotics Europe](https://www.softbankrobotics.com/emea/en) AI lab and also completing my PhD at [Plymouth University](https://www.plymouth.ac.uk/research/robotics-neural-systems/people) under Marie Skłodowska-Curie European Industrial Doctorate program [APRIL](https://www.fose1.plymouth.ac.uk/socem/crns/april/#Home). 
@@ -14,4 +16,4 @@ Previously I have received a joint Erasmus+ M.Sc. degree with distiction in Visi
 
 In 2013 I have completed my B.Sc. degree in Electrical and Computer Engineering from National Chiao Tung University (Taiwan). During my time in Taiwan I have completed two internships at [Industrical Technology Research Institute](https://www.itri.org.tw/eng/) mostly focused on applications of computer vision.
 
-![avatar](me_.png)
+
