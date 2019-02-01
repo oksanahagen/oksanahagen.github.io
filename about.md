@@ -4,7 +4,7 @@ title: About me
 permalink: /about/
 ---
 
-![avatar](me_.png){:style="float: left;margin-right: 15px;margin-top: 15px;"}
+![avatar](me_.png){:style="float: left;margin-right: 15px;margin-top: 0px;"}
 
 My name is Oksana Hagen, and this is my professional website and blog, where I share my work and everyting robot and AI related. 
 
