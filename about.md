@@ -3,7 +3,7 @@ layout: page
 title: About me
 permalink: /about/
 ---
-![avatar](/assets/me.png)
+![avatar](me.png)
 
 My name is Oksana Hagen, and this is my professional website and blog, where I share my work and everyting robot and AI related. 
 
