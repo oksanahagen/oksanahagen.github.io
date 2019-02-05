@@ -2,6 +2,7 @@
 layout: page
 title: About me
 permalink: /about/
+redirect_from: ""
 ---
 
 ![avatar](me_.png){:style="float: left;margin-right: 15px;margin-top: 0px;"}
